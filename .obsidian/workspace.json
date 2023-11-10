@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "000cc28ba1305b29",
+    "type": "split",
+    "children": [
+      {
+        "id": "b53c68b0c7f1aa1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dd6bbf67e2083e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf2067ace1abdffd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee1c9d945f36bf9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d8809d848bd37ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e95ce5c9f58347b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2183dcf487268c54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93c939cde9093327",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bec35f4828d9c83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d229f0cc973ee1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1193619805e01682",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e967523450b5d11e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83868381923fb019",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4d8809d848bd37ce",
+  "lastOpenFiles": [
+    "screenshot/Pasted image 20231111002109.png",
+    "screenshot/屏幕截图 2023-11-10 215749.png",
+    "screenshot/Pasted image 20231111001946.png",
+    "screenshot/Pasted image 20231111001914.png",
+    "screenshot/Pasted image 20231111001602.png",
+    "frontend/src/cars/8.jpg",
+    "frontend/src/cars/7.jpg",
+    "frontend/src/cars/6.jpg",
+    "frontend/src/cars/3.jpg",
+    "frontend/src/cars/5.jpg",
+    "frontend/src/cars/4.jpg",
+    "frontend/src/cars",
+    "frontend/src/setupTests.ts",
+    "frontend/src/reportWebVitals.ts",
+    "frontend/src/react-app-env.d.ts",
+    "screenshot"
+  ]
+}
